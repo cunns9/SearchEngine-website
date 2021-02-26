@@ -3,17 +3,17 @@ function sendApiRequest() {
     console.log(userInput)
 
     var giphyApiKey = "3ETIiTXeDJi0vF4xILeMB3oUvi4YDn4i"
-    var giphyApiURL = 'https://api.giphy.com/v1/gifs/search?q=${userInput}&rating=g&api_key=${giphyApiKey}'
+    var giphyApiURL = `https://api.giphy.com/v1/gifs/search?q=${userInput}&rating=g&api_key=${giphyApiKey}`
 
     fetch(giphyApiURL).then(function(data) {
         return data.json()
-
     })
     .then(function(json){
+        alert('done');
         console.log(json.data[0].images.fixed_height.url)
         var imgPath =json.data[0].images.fixed_height.url
         var img = document.createElement("img")
         img.setAttribute("src", imgPath)
         document.body.appendChild(img)
     })
-    }
+}
