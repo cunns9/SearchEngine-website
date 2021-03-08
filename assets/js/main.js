@@ -1,5 +1,17 @@
-function sendApiRequest() {
-    var userInput = document.getElementById("input").value
+
+
+
+
+
+
+
+
+/*function sendApiRequest() {
+    var userInput = document.getElementById("btn-area");
+    var inputVal = "";
+    if (userInput) {
+        inputVal = userInput.value;
+    }
     console.log(userInput)
 
     var giphyApiKey = "3ETIiTXeDJi0vF4xILeMB3oUvi4YDn4i"
@@ -16,4 +28,4 @@ function sendApiRequest() {
         img.setAttribute("src", imgPath)
         document.body.appendChild(img)
     })
-}
+}*/
