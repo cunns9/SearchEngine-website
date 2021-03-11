@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2021-03-11T22:52:39.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="YthXRRa0Puaq7Sib4arT" version="14.3.0" type="github">
+  <diagram id="gb5bWdlGP4kFHB1i1hQR" name="Page-1">
+    <mxGraphModel dx="2595" dy="1370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" width="600" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-5" value="GO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-6" value="Search" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="780" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B2pQL_GX0kWRF8nHG_PS-10" value="Powered by Giphy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="800" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
