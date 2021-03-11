@@ -7,5 +7,7 @@
 -  return search results
 
 
-On the tec side
-- 
+On the tech side
+- type in search word
+- giphy api fetch images 
+- print images on front of webpage
