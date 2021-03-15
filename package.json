@@ -1,0 +1,22 @@
+{
+  "name": "searchengine-website",
+  "homepage": "https://github.com/cunns9/SearchEngine-website#readme",
+  "version": "1.0.0",
+  "description": "As a guest user I want to\r -  type keyword in search bar\r -  then click search button\r -  return search results",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d assets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cunns9/SearchEngine-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cunns9/SearchEngine-website/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
