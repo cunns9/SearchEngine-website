@@ -11,13 +11,27 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <section class="topBorder">
+        <h1>Search Any Gif!</h1>
+    </section>
     
-    <section class="container">
-        <form>
-          <input id="search" type="search" placeholder="Type your GIF..." />
-          <button id="btnSearch">Go</button>
-        </form>
-        <div class="out"></div>
+    <section id="container">
+        <div id="searchBar">
+            <form class="d-flex">
+                <input id="search" class="form-control me-2" type="search" placeholder="Type your Gif..." aria-label="Search">
+                <button class="btn btn-warning" type="submit" id="btnSearch">Giphy!</button>
+            </div>
+          </form>
+    
+    </section>
+    <section class="out"></section>
+
+    <section class="text"><h1>Gif Animals</h1></section>
+
+    <section class="js-container animals-container"></section>
+    <section id="footer">
+        <h6>Powered by</h6>
+        <img src="img/gif.png" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="">
     </section>
 
 
