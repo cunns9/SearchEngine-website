@@ -17,9 +17,7 @@
          .then(response => response.json())
          .then(content => {
            //  data, pagination, meta
-           console.log(content.data)
-           console.log('META', content.meta)
-           
+                      
            let fig = document.createElement("figure");
            let img = document.createElement("img");
            let fc = document.createElement("figcaption");

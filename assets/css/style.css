@@ -14,10 +14,10 @@
     height: 90px;
     position: relative;
   }
-  .topBorder h1 {
+  .topBorder h2 {
     color: #ff7f50;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 25px;
   }
   .form-control:focus {
     border-color: #ff7f50; 
